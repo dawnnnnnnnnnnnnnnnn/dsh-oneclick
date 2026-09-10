@@ -1,5 +1,6 @@
 # dsh 一键安装器（dsh-oneclick）
 
+Easy AI Toolkit系列
 帮没有 Node.js 环境的朋友一键装好 [dsh（DeepSeek Harness）](https://github.com/deepseek-ai/deepseek-harness) 的前置环境，启动 `dsh web`，并在桌面生成带鲸鱼娘图标的启动快捷方式。
 
 > ⚠️ 本项目是**社区便利工具**，不是 DeepSeek 官方出品。脚本只通过 `npx` 从 npm 官方源下载运行 `@deepseek-ai/dsh`，不包含、不修改 dsh 的任何代码。
